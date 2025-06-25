@@ -1,4 +1,4 @@
-# 🧬 Quantum Virtual Omics (QVO) Project
+# 🧬 Quantum Virtual Omics (QVO) Coding System
 
 ### *Using AI to Build AI*
 
